@@ -1,0 +1,24 @@
+[
+    {
+      "tresc":"Najszyszy samochód na świecie",
+      "odp_a":"Bugatti chiron super sport",
+      "odp_b":"Koenigsegg Jesko Absolute",
+      "odp_c":"Fiat Panda",
+      "poprawna":2
+    },
+    {
+      "tresc":"Najbrzydsze auto na świecie",
+      "odp_a":"Fiat multipla",
+      "odp_b":"Nissan cube",
+      "odp_c":"Chrysler PT-cruiser",
+      "poprawna":1
+    },
+    {
+      "tresc":"Najładniesze auto na świecie",
+      "odp_a":"Porsche 918 spyder",
+      "odp_b":"Nissan Skyline GT-R R34",
+      "odp_c":"Porsche 911 GT3 RS",
+      "poprawna":2      
+    }
+  ]
+ 
